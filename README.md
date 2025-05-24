@@ -129,19 +129,6 @@ We welcome contributions! Please see CONTRIBUTING.md for guidelines.
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{wang2025dinocompanion,
-  title={DinoCompanion: An Attachment-Theory Informed Multimodal Robot for Emotionally Responsive Child-AI Interaction},
-  author={Wang, Boyang and Song, Yuhao and others},
-  booktitle={CIKM '25},
-  year={2025}
-}
-```
-
 ## Contact
 
 For questions and support, please open an issue on GitHub or contact the maintainers. 
