@@ -1,5 +1,6 @@
 # DinoCompanion Demo
 [**🔗 DINOCOMPANION Dataset on HuggingFace**](https://huggingface.co/datasets/Beaconsyh08/DINOCOMPANION)
+
 A multimodal robot system for emotionally responsive child-AI interaction based on attachment theory and developmental psychology.
 
 ## Overview
